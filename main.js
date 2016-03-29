@@ -5,7 +5,7 @@ var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 var bluefield = [199, 100, 22.9];
 
-var myName = "Bluefield";
+var myName = "Austin Mayo";
 var letterColors = [bluefield,red];
 var bubbleShape = "square";
 
